@@ -1,4 +1,4 @@
-# KaitoKiran
+# PythonWeek
 getting by
 
 These are very small projects I did last week to get to know python better.
